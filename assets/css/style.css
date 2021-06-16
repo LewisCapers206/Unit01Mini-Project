@@ -1,3 +1,52 @@
-body {
-    background-color: teal;
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
 }
+.header {
+    text-align: center;
+    padding: 20px;
+    background-color: wheat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    color: white;
+}
+
+.info li {
+    font-size: 25px;
+    margin: 20px;
+    display: inline;
+    float: right;
+}
+
+
+.header2 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: 0%;
+}
+
+.car {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    width: 50%;
+    border: 5px solid black;
+}
+
+.caption {
+    text-align: center;
+}
+
+.customer {
+    text-align: center;
+    font-size: 30px;
+}
+
+input {
+    width: 400px;
+    padding: 10px;
+}
+
